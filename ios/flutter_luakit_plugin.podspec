@@ -16,7 +16,7 @@ A new Flutter plugin.
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
   s.dependency 'curl', '>=  1.0.0'
-  s.dependency 'LuakitPod', '>=  1.0.17'
+  s.dependency 'LuakitPod', '>=  1.0.21'
   s.ios.deployment_target = '8.0'
 end
 
