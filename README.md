@@ -104,7 +104,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.github.williamwen1986:LuakitJitpack:1.0.12'
+    implementation 'com.github.williamwen1986:LuakitJitpack:1.0.13'
 }
 
 ```
