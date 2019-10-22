@@ -1,6 +1,5 @@
 name: flutter_luakit_plugin
 description: Use luakit in flutter ,Luakit is a multi-platform solution in lua , you can develop your app, IOS , android and flutter app with this tool, truely write once , use everywhere
-.
 version: 1.0.17
 author: williamwen<williamwen1986@gmail.com>
 homepage: https://github.com/williamwen1986/Luakit
