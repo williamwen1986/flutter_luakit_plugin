@@ -92,7 +92,7 @@ flutter_luakit_plugin: ^1.0.1
 source 'https://github.com/williamwen1986/LuakitPod.git'
 source 'https://github.com/williamwen1986/curl.git'
 pod 'curl', '~> 1.0.0'
-pod 'LuakitPod', '~> 1.0.23'
+pod 'LuakitPod', '~> 1.0.24'
 ```
 
 然后在android项目app的build.gradle文件加上android的依赖，可参考[demo配置](https://github.com/williamwen1986/flutter_luakit_demo/blob/master/android/app/build.gradle)
@@ -104,7 +104,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.github.williamwen1986:LuakitJitpack:1.0.13'
+    implementation 'com.github.williamwen1986:LuakitJitpack:1.0.14'
 }
 
 ```
